@@ -1,0 +1,14 @@
+3,tractor3,2000,model3,09:09:2009
+
+1,tractor1,1700,model1,10:10:2010
+
+2,tractor2,1900,model1,01:10:2008
+
+4,tractor1,1900,model2,09:07:2011
+
+5,tractor1,1700,model5,10:10:2090
+
+6,tractor2,1900,model4,09:09:2012
+
+7,tractor1,1800,modeli,08:09:2019
+
